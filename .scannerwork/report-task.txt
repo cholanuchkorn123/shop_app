@@ -1,0 +1,6 @@
+projectKey=flutter_test2
+serverUrl=http://localhost:8200
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:8200/dashboard?id=flutter_test2
+ceTaskId=AY6nhqyZPqEatgokrEK6
+ceTaskUrl=http://localhost:8200/api/ce/task?id=AY6nhqyZPqEatgokrEK6
